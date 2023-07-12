@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/digitalgood/static/css/main.073c9b0a.css",
-    "main.js": "/digitalgood/static/js/main.ea62cbb3.js",
+    "main.css": "/digitalgood/static/css/main.3e96ff23.css",
+    "main.js": "/digitalgood/static/js/main.05d4f20a.js",
     "static/js/522.bb1f66e1.chunk.js": "/digitalgood/static/js/522.bb1f66e1.chunk.js",
-    "static/media/logo.svg": "/digitalgood/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/musicai.png": "/digitalgood/static/media/musicai.e915b72570c54c64a468.png",
+    "static/media/RECRUITMENT.png": "/digitalgood/static/media/RECRUITMENT.5680259f407f3a8ac273.png",
+    "static/media/aiimages.png": "/digitalgood/static/media/aiimages.5b8d54540caadff29c9b.png",
     "index.html": "/digitalgood/index.html",
-    "main.073c9b0a.css.map": "/digitalgood/static/css/main.073c9b0a.css.map",
-    "main.ea62cbb3.js.map": "/digitalgood/static/js/main.ea62cbb3.js.map",
+    "main.3e96ff23.css.map": "/digitalgood/static/css/main.3e96ff23.css.map",
+    "main.05d4f20a.js.map": "/digitalgood/static/js/main.05d4f20a.js.map",
     "522.bb1f66e1.chunk.js.map": "/digitalgood/static/js/522.bb1f66e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ea62cbb3.js"
+    "static/css/main.3e96ff23.css",
+    "static/js/main.05d4f20a.js"
   ]
 }
