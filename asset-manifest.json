@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/digitalgood/static/css/main.3e96ff23.css",
-    "main.js": "/digitalgood/static/js/main.05d4f20a.js",
+    "main.css": "/digitalgood/static/css/main.ac97b1e4.css",
+    "main.js": "/digitalgood/static/js/main.da8e7b59.js",
     "static/js/522.bb1f66e1.chunk.js": "/digitalgood/static/js/522.bb1f66e1.chunk.js",
-    "static/media/musicai.png": "/digitalgood/static/media/musicai.e915b72570c54c64a468.png",
-    "static/media/RECRUITMENT.png": "/digitalgood/static/media/RECRUITMENT.5680259f407f3a8ac273.png",
-    "static/media/aiimages.png": "/digitalgood/static/media/aiimages.5b8d54540caadff29c9b.png",
     "index.html": "/digitalgood/index.html",
-    "main.3e96ff23.css.map": "/digitalgood/static/css/main.3e96ff23.css.map",
-    "main.05d4f20a.js.map": "/digitalgood/static/js/main.05d4f20a.js.map",
+    "main.ac97b1e4.css.map": "/digitalgood/static/css/main.ac97b1e4.css.map",
+    "main.da8e7b59.js.map": "/digitalgood/static/js/main.da8e7b59.js.map",
     "522.bb1f66e1.chunk.js.map": "/digitalgood/static/js/522.bb1f66e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e96ff23.css",
-    "static/js/main.05d4f20a.js"
+    "static/css/main.ac97b1e4.css",
+    "static/js/main.da8e7b59.js"
   ]
 }
